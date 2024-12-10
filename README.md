@@ -73,9 +73,9 @@ Before running the application, ensure you have the following installed:
 - **Description**: Reads `data.json` and indexes book data into Elasticsearch.
 - **Response**:
   ```json
-  {
-    "message": "Working fine"
-  }
+    {
+    "message":"Added Documents Sucessfully"
+    }
   ```
 
 ---

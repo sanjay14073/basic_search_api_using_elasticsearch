@@ -73,7 +73,7 @@ func AddData() gin.HandlerFunc{
 		}
 
 
-			ctx.JSON(http.StatusOK,gin.H{"message":"Working fine"})
+			ctx.JSON(http.StatusOK,gin.H{"message":"Added Documents Sucessfully"})
 		}
 }
 
